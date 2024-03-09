@@ -1,5 +1,5 @@
 # SocToProc
-## Script will read all UIDs from /proc/self/net/* files and map these to the file descriptiors for each process (/proc/*/fd) to map the socket to the PID. It sill also parse the IPs and ports reltated to the connection to a more human readable form. Output will contain more info around the process.
+Script will read all UIDs from /proc/self/net/* files and map these to the file descriptiors for each process (/proc/*/fd) to map the socket to the PID. It sill also parse the IPs and ports reltated to the connection to a more human readable form. Output will contain more info around the process.
 
 
 ## Usage
