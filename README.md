@@ -26,7 +26,6 @@ sudo ./SocToProc.sh -c
 ## Author
 * Mastodon: [@b00010111](https://ioc.exchange/@b00010111)
 * Blog: https://00010111.at/
-* Twitter: [@b00010111](https://twitter.com/b00010111)
 
 ## License
 * Free to use, reuse and redistribute for everyone.
